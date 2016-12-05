@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 using System;
-
+using Leap.Unity.Interaction;
 namespace Leap.Unity.Interaction {
 
   /**
