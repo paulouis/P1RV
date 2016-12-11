@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ActivateColor.cs" />
      <Compile Include="Assets\Edit.cs" />
      <Compile Include="Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\Displace.cs" />
@@ -192,6 +193,7 @@
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\SliderVolume.cs" />
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\ToggleToggler.cs" />
      <Compile Include="Assets\SelectWidth.cs" />
+     <Compile Include="Assets\ToggleMenuColor.cs" />
      <Compile Include="Assets\scripts\Activation.cs" />
      <Compile Include="Assets\scripts\ActivationLeapRTS_Prefab.cs" />
      <Compile Include="Assets\scripts\Bouton.cs" />

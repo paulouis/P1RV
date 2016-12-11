@@ -2,9 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
-using Leap;
 using LeapInternal;
-using Leap.Unity.Interaction;
+
 namespace Leap.Unity.Interaction.CApi {
 
   public enum Version : uint {
