@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D42C1A5E-C570-3D2C-0280-B6B37E904A13}</ProjectGuid>
+    <ProjectGuid>{055DC054-169E-C44B-2AB1-A744CD968F3B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,8 +45,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ActivateColor.cs" />
-     <Compile Include="Assets\Edit.cs" />
      <Compile Include="Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\Displace.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
@@ -56,7 +54,6 @@
      <Compile Include="Assets\Environment\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
-     <Compile Include="Assets\FeatureManagerLink.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\Algorithms\SlidingMax.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\Algorithms\SmoothedFloat.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\Algorithms\SmoothedQuaternion.cs" />
@@ -192,22 +189,21 @@
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\SliderShadow.cs" />
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\SliderVolume.cs" />
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\ToggleToggler.cs" />
-     <Compile Include="Assets\SelectWidth.cs" />
-     <Compile Include="Assets\ToggleMenuColor.cs" />
-     <Compile Include="Assets\scripts\Activation.cs" />
      <Compile Include="Assets\scripts\ActivationLeapRTS_Prefab.cs" />
      <Compile Include="Assets\scripts\Bouton.cs" />
+     <Compile Include="Assets\scripts\Edit.cs" />
+     <Compile Include="Assets\scripts\FeatureManagerLink.cs" />
      <Compile Include="Assets\scripts\InteractionSwitch.cs" />
      <Compile Include="Assets\scripts\LeapRTS_Prefab.cs" />
      <Compile Include="Assets\scripts\Move.cs" />
      <Compile Include="Assets\scripts\SimpleMouseRotator.cs" />
+     <Compile Include="Assets\scripts\UI scripts\ActivateColor.cs" />
      <Compile Include="Assets\scripts\UI scripts\ActivationMenuPrincipal.cs" />
      <Compile Include="Assets\scripts\UI scripts\AddCube.cs" />
-     <Compile Include="Assets\scripts\UI scripts\FollowHand!PASUTILE!.cs" />
      <Compile Include="Assets\scripts\UI scripts\InstanceObjet.cs" />
-     <Compile Include="Assets\scripts\UI scripts\MenuObjetToggle.cs" />
-     <Compile Include="Assets\scripts\UI scripts\MenuToggle.cs" />
      <Compile Include="Assets\scripts\UI scripts\MenuToggleBis.cs" />
+     <Compile Include="Assets\scripts\UI scripts\SelectWidth.cs" />
+     <Compile Include="Assets\scripts\UI scripts\ToggleMenuColor.cs" />
      <Compile Include="Assets\scripts\ZQSDMove.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\LeapMotion\Resources\LeapCG.cginc" />
@@ -235,7 +231,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/louis/Documents/Archiverse/P1RV_GIT/P1RV_CLONE/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/louis/Documents/Archiverse/P1RV/P1RV/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
