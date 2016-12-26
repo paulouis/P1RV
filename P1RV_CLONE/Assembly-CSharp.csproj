@@ -54,6 +54,7 @@
      <Compile Include="Assets\Environment\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
      <Compile Include="Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
+     <Compile Include="Assets\GravitySwitch.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\Algorithms\SlidingMax.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\Algorithms\SmoothedFloat.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\Algorithms\SmoothedQuaternion.cs" />
@@ -189,6 +190,14 @@
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\SliderShadow.cs" />
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\SliderVolume.cs" />
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\ToggleToggler.cs" />
+     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\CameraTarget.cs" />
+     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\EffectController.cs" />
+     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\EffectDemo.cs" />
+     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\EffectShaderPropertyStr.cs" />
+     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\RenderEffect.cs" />
+     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\TransformExtension.cs" />
+     <Compile Include="Assets\RayCast.cs" />
+     <Compile Include="Assets\RayMove.cs" />
      <Compile Include="Assets\scripts\ActivationLeapRTS_Prefab.cs" />
      <Compile Include="Assets\scripts\Bouton.cs" />
      <Compile Include="Assets\scripts\Edit.cs" />
@@ -212,15 +221,21 @@
      <None Include="Assets\LeapMotion\Resources\RuntimeGizmos.shader" />
      <None Include="Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\LeapMotionModules\DetectionExamples\Shaders\LeapPinchLine.shader" />
+     <None Include="Assets\Particlecollection_Free samples\Plugins\Effect\Shader\effect_distortion_mask.shader" />
      <None Include="Assets\LeapMotion\Dependencies.txt" />
      <None Include="Assets\LeapMotion\Resources\ThresholdOverlay.shader" />
+     <None Include="Assets\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleAddSoftEffect.shader" />
      <None Include="Assets\LeapMotion\Resources\PassthroughForeground.shader" />
      <None Include="Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\LeapMotion\Resources\PassthroughBackground.shader" />
+     <None Include="Assets\Particlecollection_Free samples\Plugins\Effect\Shader\ParticlePremultiplyBlend.shader" />
+     <None Include="Assets\Particlecollection_Free samples\READ ME.txt" />
      <None Include="Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\LeapMotion\Version.txt" />
+     <None Include="Assets\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleAddEffect.shader" />
      <None Include="Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+     <None Include="Assets\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleBlendEffect.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
