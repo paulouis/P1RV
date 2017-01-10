@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 using Leap.Unity.DetectionExamples;
+
+// sélectionne la largeur du trait de dessin libre, ce script modifie l'épaisseur du trait dans l'objet pinchDrawing de la scène
 public class SelectWidth : MonoBehaviour {
 	public GameObject PinchDrawing;
 	public string Width;

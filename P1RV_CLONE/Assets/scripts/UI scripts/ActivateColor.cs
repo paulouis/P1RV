@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using Leap.Unity.DetectionExamples;
+
+// permet de selectionner la couleur du dessin , ce script est simplémenté sur chaque bouton couleur de l'UI et
+// change la couleur du dessin sur l'objet PinchDrawing de la scène.
 public class ActivateColor : MonoBehaviour {
 	public Color Truc;
 	public GameObject PinchDrawing;
