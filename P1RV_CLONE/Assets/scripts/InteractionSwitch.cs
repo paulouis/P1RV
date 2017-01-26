@@ -9,19 +9,20 @@ public class InteractionSwitch : MonoBehaviour {
 	private bool Switch ; 
 	// Use this for initialization
 	void Start () {
-		//Interaction.SetActive(true);
-		Leap.GetComponent<HandPool>().DisableGroup("Collision"); 
-		Leap.GetComponent<HandPool> ().EnableGroup ("Brush"); // 
-		Switch = true;
+		
+		Leap.GetComponent<HandPool>().DisableGroup("Brush"); 
+		Leap.GetComponent<HandPool> ().EnableGroup ("Collision"); 
+		Interaction.GetComponent<InteractionManager> ().GraspingEnabled = false; // 
+		Switch = false;
 
 	}
-	public void Activer() // active les groupes de mains associées
+	public void Activer() // active les groupes de mains associées à la rotation et au scale
 	{
 		Interaction.GetComponent<InteractionManager> ().GraspingEnabled = false; 
 		Leap.GetComponent<HandPool>().DisableGroup("Brush"); // mains nécessaires à l'interaction engine
 		Leap.GetComponent<HandPool> ().EnableGroup ("Collision"); // mains nécessaires aux autres tehchniques
 	}
-	public void Desactiver()
+	public void Desactiver() // désactive les groupes de mains associées au scaling et à la rotation
 	{
 		//Interaction.SetActive(true); 
 		Interaction.GetComponent<InteractionManager> ().GraspingEnabled = true; 

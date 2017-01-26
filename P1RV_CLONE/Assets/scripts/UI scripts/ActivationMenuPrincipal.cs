@@ -26,7 +26,7 @@ public class ActivationMenuPrincipal : MonoBehaviour {
 		}
 	}
 	// Update is called once per frame
-	void Update () {
+	void Update () { // affichage du menu par le clavier
 		if (Input.GetButtonDown("ShowMenu"))
 			{
 				Menu.SetActive (!Menu.activeInHierarchy);
