@@ -238,6 +238,8 @@
      <Compile Include="Assets\scripts\FeatureManagerLink.cs" />
      <Compile Include="Assets\scripts\InteractionSwitch.cs" />
      <Compile Include="Assets\scripts\LeapRTS_Prefab.cs" />
+     <Compile Include="Assets\scripts\MaterialLink.cs" />
+     <Compile Include="Assets\scripts\MaterialSelect_Highlight.cs" />
      <Compile Include="Assets\scripts\Move.cs" />
      <Compile Include="Assets\scripts\SimpleMouseRotator.cs" />
      <Compile Include="Assets\scripts\UI scripts\ActivateColor.cs" />
@@ -245,15 +247,15 @@
      <Compile Include="Assets\scripts\UI scripts\AddCube.cs" />
      <Compile Include="Assets\scripts\UI scripts\FollowHand!PASUTILE!.cs" />
      <Compile Include="Assets\scripts\UI scripts\InstanceObjet.cs" />
-     <Compile Include="Assets\scripts\UI scripts\MenuObjetToggle.cs" />
-     <Compile Include="Assets\scripts\UI scripts\MenuToggle.cs" />
      <Compile Include="Assets\scripts\UI scripts\MenuToggleBis.cs" />
      <Compile Include="Assets\scripts\UI scripts\SelectWidth.cs" />
      <Compile Include="Assets\scripts\UI scripts\ToggleMenuColor.cs" />
+     <Compile Include="Assets\scripts\UI scripts\ToggleMenuMaterial.cs" />
      <Compile Include="Assets\scripts\ZQSDMove.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\UnityTestTools\Examples\IntegrationTestsFrameworkExamples\AngryBotsTests\Shaders\Fx\Cursor.shader" />
      <None Include="Assets\UnityTestTools\LICENSE.txt" />
+     <None Include="Assets\CustomShaders\ShowOutlineBorders.shader" />
      <None Include="Assets\LeapMotion\Resources\LeapCG.cginc" />
      <None Include="Assets\UnityTestTools\Examples\IntegrationTestsFrameworkExamples\AngryBotsTests\Shaders\Fx\ParticleAdditiveBlend.shader" />
      <None Include="Assets\LeapMotion\README_BEFORE_UPDATING.txt" />
@@ -275,6 +277,7 @@
      <None Include="Assets\UnityTestTools\Examples\IntegrationTestsFrameworkExamples\AngryBotsTests\Shaders\Fx\ParticleAdditive.shader" />
      <None Include="Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\LeapMotion\Resources\PassthroughBackground.shader" />
+     <None Include="Assets\material\MaterialSelection\GlassShader.shader" />
      <None Include="Assets\UnityTestTools\changelog.txt" />
      <None Include="Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\UnityTestTools\Examples\IntegrationTestsFrameworkExamples\AngryBotsTests\Shaders\Fx\LaserScope.shader" />
