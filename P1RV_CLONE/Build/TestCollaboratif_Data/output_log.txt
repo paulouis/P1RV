@@ -1,0 +1,772 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Failed to load 'C:/Users/louis/Documents/Archiverse/P1RV_CLONE/Build/TestCollaboratif_Data/Plugins/OVRPlugin.dll' with error 'Le module spécifié est introuvable.
+'.
+ 
+(Filename:  Line: 117)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_PreInitialize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInitialized.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Initialize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Shutdown.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetVersion.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKVersion.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKPointer.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetDisplayAdapterId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioOutId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioInId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupEyeTexture.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyEyeTexture.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureSize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureStageCount.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureFlippedY.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureFlippedY.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureShared.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureShared.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeViewportScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeViewportScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMesh.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyePreviewRect.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Update.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_BeginFrame.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndEye.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndFrame.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationSupported.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionSupported.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingPositionEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingCalibratedOrigin.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOriginType.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOriginType.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_RecenterTrackingOrigin.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePresent.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeOrientationTracked.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePositionTracked.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePose.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeVelocity.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeAcceleration.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeFrustum.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetSystemProductName.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppSRGB.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetAppSRGB.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppHasVrFocus.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldQuit.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecenter.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecreateDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDisplayObjects.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInputState.
+ 
+(Filename:  Line: 114)
+
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_CLONE\Build\TestCollaboratif_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Failed to load 'C:/Users/louis/Documents/Archiverse/P1RV_CLONE/Build/TestCollaboratif_Data/Plugins/OVRPlugin.dll' with error 'Le module spécifié est introuvable.
+'.
+ 
+(Filename:  Line: 117)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_PreInitialize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInitialized.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Initialize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Shutdown.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetVersion.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKVersion.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKPointer.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetDisplayAdapterId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioOutId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioInId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupEyeTexture.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyEyeTexture.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureSize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureStageCount.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureFlippedY.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureFlippedY.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureShared.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureShared.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeViewportScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeViewportScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMesh.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyePreviewRect.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Update.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_BeginFrame.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndEye.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndFrame.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationSupported.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionSupported.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingPositionEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingCalibratedOrigin.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOriginType.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOriginType.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_RecenterTrackingOrigin.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePresent.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeOrientationTracked.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePositionTracked.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePose.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeVelocity.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeAcceleration.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeFrustum.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetSystemProductName.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppSRGB.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetAppSRGB.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppHasVrFocus.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldQuit.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecenter.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecreateDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDisplayObjects.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInputState.
+ 
+(Filename:  Line: 114)
+
+Failed to load 'C:/Users/louis/Documents/Archiverse/P1RV_CLONE/Build/TestCollaboratif_Data/Plugins/OVRPlugin.dll' with error 'Le module spécifié est introuvable.
+'.
+ 
+(Filename:  Line: 117)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_PreInitialize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInitialized.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Initialize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Shutdown.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetVersion.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKVersion.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKPointer.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetDisplayAdapterId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioOutId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioInId.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupEyeTexture.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyEyeTexture.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureSize.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureStageCount.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureFlippedY.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureFlippedY.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureShared.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureShared.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeViewportScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeViewportScale.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMesh.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyePreviewRect.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Update.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_BeginFrame.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndEye.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndFrame.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationSupported.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionSupported.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingPositionEnabled.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingCalibratedOrigin.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOriginType.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOriginType.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_RecenterTrackingOrigin.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePresent.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeOrientationTracked.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePositionTracked.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePose.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeVelocity.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeAcceleration.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeFrustum.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetSystemProductName.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppSRGB.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetAppSRGB.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppHasVrFocus.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldQuit.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecenter.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecreateDistortionWindow.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDisplayObjects.
+ 
+(Filename:  Line: 114)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInputState.
+ 
+(Filename:  Line: 114)
+
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+WARNING: Shader Unsupported: 'Outlined/Silhouetted Bumped Diffuse' - Pass 'OUTLINE' has no vertex shader
+UnloadTime: 0.871983 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Leap.Unity.LeapRTS_Prefab.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2628 -> priority: 1 
+  Thread -> id: 908 -> priority: 1 
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:192.168.1.13:57537}
+Server client disconnect error:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OnDisconnectError error:6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
