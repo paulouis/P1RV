@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.Networking;
 
-public class ZQSDMove : NetworkBehaviour
+public class ZQSDMove : MonoBehaviour
 {
     private float m_MovementXInputValue;
     private float m_MovementZInputValue;
@@ -30,10 +30,7 @@ public class ZQSDMove : NetworkBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!isLocalPlayer)
-        {
-            return;
-        }
+      
         Move();
     }
 }
