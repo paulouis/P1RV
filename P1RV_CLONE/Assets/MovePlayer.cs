@@ -11,13 +11,18 @@ public class MovePlayer : MonoBehaviour
         Offset = player.transform.position - transform.position;
         if (player == null)
         {
-            player = GameObject.Find("Player");
+            player = GameObject.Find("Player(Clone)");
         }
     }
 	
     // Update is called once per frame
     void Update()
     {
+        if (player == null)
+        {
+            player = GameObject.Find("Player(Clone)");
+            Offset = new Vector3(-1f, -1f, -1f);
+        }
         player.transform.position = transform.position + Offset;
     }
 }
