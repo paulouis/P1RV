@@ -126,12 +126,6 @@
  <Reference Include="LeapCSharp.NET3.5">
  <HintPath>C:/Users/louis/Documents/Archiverse/P1RV_GIT/P1RV_CLONE/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
- <Reference Include="Mono.Cecil">
- <HintPath>C:/Users/louis/Documents/Archiverse/P1RV_GIT/P1RV_CLONE/Assets/UnityTestTools/IntegrationTestsFramework/Libs/Mono.Cecil.dll</HintPath>
- </Reference>
- <Reference Include="Mono.Cecil.Mdb">
- <HintPath>C:/Users/louis/Documents/Archiverse/P1RV_GIT/P1RV_CLONE/Assets/UnityTestTools/IntegrationTestsFramework/Libs/Mono.Cecil.Mdb.dll</HintPath>
- </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
