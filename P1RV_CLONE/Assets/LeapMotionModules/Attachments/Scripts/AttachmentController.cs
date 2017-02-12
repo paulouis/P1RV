@@ -2,10 +2,9 @@
 
 namespace Leap.Unity.Attachments {
 
-
   /**
    * Controls activation and deactivation of child game objects, optionally using a transition.
-   *
+   * 
    * Call Activate() to enable all child objects. If a Transition is specified, it is applied
    * after enabling the children.
    * 
@@ -27,7 +26,6 @@ namespace Leap.Unity.Attachments {
      * Reports whether this attachment is in an activated state or not.
      *  @since 4.1.1
      */
-
     public bool IsActive {
       get {
         return _isActive;
@@ -66,6 +64,7 @@ namespace Leap.Unity.Attachments {
         Transition.TransitionIn();
       }
     }
+
     /**
      * Deactivates the attachment's child object.
      * Plays the Transition, if one is specified.
@@ -121,5 +120,4 @@ namespace Leap.Unity.Attachments {
     }
 
   }
-
 }

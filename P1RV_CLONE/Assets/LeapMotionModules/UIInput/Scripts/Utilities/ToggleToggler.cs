@@ -8,18 +8,16 @@ namespace Leap.Unity.InputModule {
     public UnityEngine.UI.Image image;
     public Color OnColor;
     public Color OffColor;
-	public 	InstanceObjet script; 
+
     public void SetToggle(Toggle toggle) {
       if (toggle.isOn) {
         text.text = "On";
         text.color = Color.white;
         image.color = OnColor;
-		script.Creer ();
       } else {
         text.text = "Off";
         text.color = new Color(0.3f, 0.3f, 0.3f);
         image.color = OffColor;
-		
       }
     }
   }

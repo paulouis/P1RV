@@ -5,7 +5,6 @@ namespace Leap.Unity.DetectionExamples {
 
   public class PinchDraw : MonoBehaviour {
 
-
     [Tooltip("Each pinch detector can draw one line at a time.")]
     [SerializeField]
     private PinchDetector[] _pinchDetectors;

@@ -7,13 +7,7 @@ namespace Leap.Unity {
   /// allows rotation, translation, and scale of the object (RTS).
   /// </summary>
   public class LeapRTS : MonoBehaviour {
-	//Ajouter directement les PinchPoint au Script LeapRTS
-		//****************************************************//
-	private GameObject PinchLeft;
-	private PinchDetector PinchLeftDetector;
-	private GameObject PinchRight;
-	private PinchDetector PinchRightDetector;
-		//******************************************************//
+
     public enum RotationMethod {
       None,
       Single,
@@ -61,20 +55,12 @@ namespace Leap.Unity {
     private Transform _anchor;
 
     private float _defaultNearClip;
-	
-		//assigner les PinchLeft et PinchRight
-	void awake()
-	{
-			
-	}
-    void Start() {
-		PinchLeft = GameObject.Find ("PinchPoint_L");
-		PinchLeftDetector = PinchLeft.GetComponent<PinchDetector> ();
-		_pinchDetectorA = PinchLeftDetector;
-		PinchRight = GameObject.Find ("PinchPoint_R");
-		PinchRightDetector = PinchRight.GetComponent<PinchDetector> ();
-		_pinchDetectorB = PinchRightDetector;
 
+    void Start() {
+//      if (_pinchDetectorA == null || _pinchDetectorB == null) {
+//        Debug.LogWarning("Both Pinch Detectors of the LeapRTS component must be assigned. This component has been disabled.");
+//        enabled = false;
+//      }
 
       GameObject pinchControl = new GameObject("RTS Anchor");
       _anchor = pinchControl.transform;
