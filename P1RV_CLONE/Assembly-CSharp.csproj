@@ -191,6 +191,7 @@
      <Compile Include="Assets\LeapMotionModules\UIInput\Scripts\Utilities\ToggleToggler.cs" />
      <Compile Include="Assets\MovePlayer.cs" />
      <Compile Include="Assets\MovePlayerfromPrefab.cs" />
+     <Compile Include="Assets\NetworkInstance.cs" />
      <Compile Include="Assets\colorplayer.cs" />
      <Compile Include="Assets\scripts\Activation.cs" />
      <Compile Include="Assets\scripts\ActivationLeapRTS_Prefab.cs" />
