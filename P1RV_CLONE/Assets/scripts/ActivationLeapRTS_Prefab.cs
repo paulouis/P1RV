@@ -19,6 +19,7 @@ public class ActivationLeapRTS_Prefab : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
+        Debug.Log("Collision");
         actif = true;
         if (other.gameObject.CompareTag("Index"))
         {

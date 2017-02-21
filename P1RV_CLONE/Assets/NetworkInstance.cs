@@ -9,12 +9,13 @@ public class NetworkInstance : NetworkBehaviour
     private Transform m_ObjectTransformRandom;
     private GameObject NouveauCube;
     public Transform SpawnObjets;
+    public GameObject FeaturesM;
     // Use this for initialization
     void Start()
     {
         m_ObjectTransform = GameObject.Find("LMHeadMountedRig/ObjectTransform").transform;
         m_ObjectTransformRandom = m_ObjectTransform;
-
+        FeaturesM = GameObject.Find("FeaturesManager");
     }
 
     [Command]
@@ -33,10 +34,12 @@ public class NetworkInstance : NetworkBehaviour
     {
         if (isLocalPlayer)
         {
-            if (Input.GetKeyDown(KeyCode.I))
+            if (Input.GetKeyDown(KeyCode.I) || FeaturesM.GetComponent<CmdInstanceObjet>().Instancier)
             {
                 Debug.Log("instantiation !! ");
+                Objet = FeaturesM.GetComponent<CmdInstanceObjet>().Prefab;
                 CmdCreer();
+                FeaturesM.GetComponent<CmdInstanceObjet>().Faux();
             }
         }
     }
