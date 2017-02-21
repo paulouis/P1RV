@@ -25,7 +25,7 @@ public class NetworkInstance : NetworkBehaviour
         Vector3 offset = new Vector3(Random.Range(-0.3f, 0.3f), 0f, 0f);
         m_ObjectTransformRandom.position = m_ObjectTransform.position + offset;
         GameObject NouveauCube = Instantiate(Objet.gameObject, SpawnObjets.position, Quaternion.identity) as GameObject;
-        NetworkServer.Spawn(NouveauCube);
+        NetworkServer.SpawnWithClientAuthority(NouveauCube, base.connectionToClient);
 
         //Network.Instantiate(Objet.gameObject, m_ObjectTransformRandom.position, Quaternion.identity, 0);
     }
