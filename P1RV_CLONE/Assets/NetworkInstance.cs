@@ -10,12 +10,16 @@ public class NetworkInstance : NetworkBehaviour
     private GameObject NouveauCube;
     public Transform SpawnObjets;
     public GameObject FeaturesM;
+
+   
     // Use this for initialization
     void Start()
     {
         m_ObjectTransform = GameObject.Find("LMHeadMountedRig/ObjectTransform").transform;
         m_ObjectTransformRandom = m_ObjectTransform;
         FeaturesM = GameObject.Find("FeaturesManager");
+
+
     }
 
     [Command]
@@ -29,6 +33,7 @@ public class NetworkInstance : NetworkBehaviour
 
         //Network.Instantiate(Objet.gameObject, m_ObjectTransformRandom.position, Quaternion.identity, 0);
     }
+        
     // Update is called once per frame
     void Update()
     {
@@ -41,6 +46,8 @@ public class NetworkInstance : NetworkBehaviour
                 CmdCreer();
                 FeaturesM.GetComponent<CmdInstanceObjet>().Faux();
             }
+               
+
         }
     }
 }

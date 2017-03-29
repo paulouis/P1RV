@@ -1,0 +1,232 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\louis\Documents\Archiverse\P1RV_GIT\P1RV_CLONE\Build\ArchiverseRelease_Collaboratif_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1510)
+
+The referenced script on this Behaviour (Game Object 'InstanceCube') is missing!
+ 
+(Filename:  Line: 1656)
+
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+WARNING: Shader Unsupported: 'Outlined/Silhouetted Bumped Diffuse' - Pass 'OUTLINE' has no vertex shader
+UnloadTime: 1.271844 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2990 -> priority: 1 
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1510)
+
+The referenced script on this Behaviour (Game Object 'InstanceCube') is missing!
+ 
+(Filename:  Line: 1656)
+
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+WARNING: Shader Unsupported: 'Outlined/Silhouetted Bumped Diffuse' - Pass 'OUTLINE' has no vertex shader
+UnloadTime: 1.022521 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a04 -> priority: 1 
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/rEntime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted havnsure that theinltayers
+ t
+hat yo(Fhave ame:o ted buave UlaElementsy/nbuilm!
+ 
+(Filen/ame: C:/buienlrsaave/unityon/runtime/UnityEgegneratedg/indcogsmgmn.n/rpp Lineu 42)ime/Uni
+
+EngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+instantiation !! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1510)
+
+The referenced script on this Behaviour (Game Object 'InstanceCube') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'InstanceCube') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1510)
+
+The referenced script on this Behaviour (Game Object 'InstanceCube') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'InstanceCube') is missing!
+ 
+(Filename:  Line: 1656)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+

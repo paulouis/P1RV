@@ -88,7 +88,7 @@ namespace Leap.Unity
             PinchLeft = GameObject.Find("RigidRoundHand_L/PinchPointAlt_L");
             PinchLeftDetector = PinchLeft.GetComponent<PinchDetector>();
             _pinchDetectorA = PinchLeftDetector;
-            
+
             //Find pinchDetector Right and set it to the _pinchDetectorB variable
             PinchRight = GameObject.Find("RigidRoundHand_R/PinchPointAlt_R");
             PinchRightDetector = PinchRight.GetComponent<PinchDetector>();
@@ -117,8 +117,8 @@ namespace Leap.Unity
         void Update()
         {
             ////////////////////////////////////////
-            _allowScale = FeatureMScript.IsScaling; 
-            /// 
+            _allowScale = FeatureMScript.IsScaling;
+            ///
             if (Input.GetKeyDown(_toggleGuiState))
             {
                 _showGUI = !_showGUI;
@@ -210,21 +210,21 @@ namespace Leap.Unity
                 //// Méthode de Rotation
 
                     Quaternion pp = Quaternion.Lerp (_pinchDetectorA.Rotation, _pinchDetectorB.Rotation, 0.5f);
-                    ////// On freeze la translation /////// 
-                
+                    ////// On freeze la translation ///////
+
                     Vector3 u = pp * Vector3.up;
                     _anchor.LookAt (_pinchDetectorA.Position, u);
 
           break;
       }
-*/          
+*/
 
             if (FeatureMScript.IsRotating)
             {
                 //// Méthode de Rotation
 
                 Quaternion pp = Quaternion.Lerp(_pinchDetectorA.Rotation, _pinchDetectorB.Rotation, 0.5f);
-                ////// On freeze la translation /////// 
+                ////// On freeze la translation ///////
 
                 Vector3 u = pp * Vector3.up;
                 _anchor.LookAt(_pinchDetectorA.Position, u);
@@ -262,12 +262,12 @@ namespace Leap.Unity
 
 
 
-
-
-
-
-
-
+//
+//
+//
+//
+//
+//
 //
 //namespace Leap.Unity
 //{

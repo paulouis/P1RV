@@ -1,15 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LeapRTS_Prefab.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SelectionObjet.cs">
     <Files>
       <File FileName="Assets\scripts\UI scripts\InstanceObjet.cs" Line="1" Column="1" />
       <File FileName="Assets\NetworkInstance.cs" Line="1" Column="1" />
-      <File FileName="Assets\CmdInstanceObjet.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\LeapRTS_Prefab.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ActivationLeapRTS_Prefab.cs" Line="1" Column="1" />
       <File FileName="Assets\SelectionObjet.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\LeapRTS_Prefab.cs" Line="95" Column="50" />
-      <File FileName="..\..\P1RV\P1RV\Assets\scripts\LeapRTS_Prefab.cs" Line="224" Column="1" />
-      <File FileName="Assets\TakeClientAuthority.cs" Line="21" Column="56" />
-      <File FileName="Assets\scripts\ActivationLeapRTS_Prefab.cs" Line="28" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
