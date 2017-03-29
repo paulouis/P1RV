@@ -1,5 +1,8 @@
 PROJET P2RV sur la base du projet Archiverse de Mr Jacob Hamman. 
 
+Le branche principale (Master) correspond au projet Solo c'est à dire sans le collaboratif, pour télécharger le projet unity associé à la version collaborative, assurez vous de vous être placé dans la branche "Tests" avant d'effectuer les étapes suivantes.
+
+
 Instructions pour la mise en place du projet Unity à partir du Repo GITHUB (à ne faire qu'une fois puis normalement les Mise à jour du repo par Git ne poseront pas de problème car ne concerneront que quelques fichiers à chaque fois) :
 
 1) Télécharger ou cloner le répertoire P1RV_CLONE 
@@ -23,3 +26,6 @@ Instructions pour la mise en place du projet Unity à partir du Repo GITHUB (à 
 
 
 En fait ce qui se passe, c'est que des conflits apparaissent lorsque on ne fait que copier des assets Leap Motion sans utiliser les Packages Unity dispo sur leur site. Du coup quand on démarre un projet à partir de mon repo git, il faut réimporter tous ces packages. De plus, j'ai eu besoin de modifer certains des assets de Leap motion, d'où le fait de réimporter une deuxième fois tout le repo Git.
+
+
+* La documentation Arduino ainsi que les scripts associés au déplacement sont fournis dans la branche principale dans le dossier "Arduino"  
